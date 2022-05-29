@@ -1,7 +1,7 @@
 # TrackerAUTO
 Basic executable with GUI - Pandas XLSX + CSV automate. 
 
-Atenção, esse executável é de uso específico, e não irá servir para terceiros.
+Atenção, esse executável é de uso específico e não irá servir para terceiros.
 
 Desenvolvido em Python, utilizando as bibliotecas Pandas e Tkinter.
 
